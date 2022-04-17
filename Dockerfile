@@ -17,3 +17,5 @@ RUN chmod a+x /startup.sh
 EXPOSE 8080
 
 ENTRYPOINT ["/startup.sh"]
+
+
